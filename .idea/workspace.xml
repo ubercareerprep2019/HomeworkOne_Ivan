@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4846095-77b4-481a-b089-33ee2cd6eb77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HomeworkOne_Ivan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_13_beta_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArraysAndStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeworkOne_Ivan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworkOne_Ivan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/test/HomeworkOne_Ivan/ArrayAndStringsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,32 +40,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="278" />
+          <entry key="java" value="2461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="278" />
+          <entry key="JAVA" value="2461" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="333">
+              <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="47" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="63">
+              <caret line="10" selection-start-line="10" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,8 +96,8 @@
         <option value="$PROJECT_DIR$/tests/ArrayAndStringsTests.java" />
         <option value="$PROJECT_DIR$/src/ArraysAndStrings.java" />
         <option value="$PROJECT_DIR$/tests/ArraysAndStringsTests.java" />
-        <option value="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" />
         <option value="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" />
+        <option value="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" />
       </list>
     </option>
   </component>
@@ -112,7 +108,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
+    <option name="x" value="220" />
     <option name="y" value="23" />
     <option name="width" value="1484" />
     <option name="height" value="950" />
@@ -170,7 +166,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558333693827" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558655288831" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -205,12 +201,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ArraysAndStringsTest">
     <configuration name="ArrayAndStringsTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="HomeworkOne_Ivan" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ArrayAndStringsTests" />
       <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysAndStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkOne_Ivan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.ArraysAndStrings.ArraysAndStringsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysAndStringsTest.isStringPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkOne_Ivan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.ArraysAndStrings.ArraysAndStringsTest" />
+      <option name="METHOD_NAME" value="isStringPermutation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysAndStringsTest.isStringPermutationTrueCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkOne_Ivan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.ArraysAndStrings.ArraysAndStringsTest" />
+      <option name="METHOD_NAME" value="isStringPermutationTrueCase" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -224,6 +270,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.ArrayAndStringsTests" />
+      <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutation" />
+      <item itemvalue="JUnit.ArraysAndStringsTest" />
+      <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutationTrueCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArraysAndStringsTest" />
+        <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutationTrueCase" />
+        <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutation" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -237,44 +296,44 @@
       <updated>1558329054089</updated>
       <workItem from="1558329055329" duration="1567000" />
       <workItem from="1558330668921" duration="548000" />
-      <workItem from="1558331240404" duration="2340000" />
+      <workItem from="1558331240404" duration="6473000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 36m 56s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest_isStringPermutationTrueCase - 2019.05.23 at 16h 40m 30s.xml">
+      <configuration name="ArraysAndStringsTest.isStringPermutationTrueCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 38m 17s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest_isStringPermutationTrueCase - 2019.05.23 at 16h 41m 38s.xml">
+      <configuration name="ArraysAndStringsTest.isStringPermutationTrueCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 39m 12s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 43m 41s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 45m 28s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 44m 04s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 45m 35s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 44m 51s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 48m 15s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 45m 22s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 48m 21s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 46m 23s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 49m 10s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 46m 37s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 53m 12s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 46m 50s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayAndStringsTests - 2019.05.19 at 22h 57m 19s.xml">
-      <configuration name="ArrayAndStringsTests" configurationId="JUnit" />
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 47m 19s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4455000" />
+    <option name="totallyTimeSpent" value="8588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,10 +345,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="23" width="1484" height="950" extended-state="0" />
+    <frame x="220" y="23" width="1484" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24202496" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24202496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,8 +357,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32983682" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32983682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997669" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32983682" />
@@ -358,17 +417,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="333">
+          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
+    <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="63">
+          <caret line="10" selection-start-line="10" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
