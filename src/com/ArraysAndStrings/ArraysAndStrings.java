@@ -1,6 +1,10 @@
 package com.ArraysAndStrings;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
+
+import javafx.util.Pair;
 
 public class ArraysAndStrings {
 
@@ -48,5 +52,25 @@ public class ArraysAndStrings {
             }
         }
         return true;
+    }
+
+
+    public static ArrayList<Pair<Integer, Integer>> pairsThatEqualSum(int[] inputArray, int targetSum) {
+        HashMap<Integer, Integer> values = new HashMap<>();
+        ArrayList<Pair<Integer, Integer>> pairs = new ArrayList<>();
+
+        Pair<Integer, Integer> newPair;
+
+        for (int i = 0; i < inputArray.length; i++) {
+            // case where hashmap does not already contain the missing part of the pair that adds to target sum
+            if (!values.containsKey(targetSum - inputArray[i])) {
+                values.put(inputArray[i], i);
+            } else {
+                // case where hashmap ALREADY contains the missing part of the pair that adds to target sum; create pair
+                newPair = new Pair<>(inputArray[i], targetSum - inputArray[i]);
+                pairs.add(newPair);
+            }
+        }
+        return pairs;
     }
 }

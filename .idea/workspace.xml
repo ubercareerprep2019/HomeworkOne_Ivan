@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4846095-77b4-481a-b089-33ee2cd6eb77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/test/HomeworkOne_Ivan/ArrayAndStringsTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" afterDir="false" />
     </list>
@@ -40,32 +38,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2461" />
+          <entry key="java" value="5641" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2461" />
+          <entry key="JAVA" value="5641" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="293">
+              <caret line="68" column="120" selection-start-line="68" selection-start-column="120" selection-end-line="68" selection-end-column="120" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="10" selection-start-line="10" selection-end-line="28" />
+            <state relative-caret-position="54">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="37" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,8 +97,8 @@
         <option value="$PROJECT_DIR$/tests/ArrayAndStringsTests.java" />
         <option value="$PROJECT_DIR$/src/ArraysAndStrings.java" />
         <option value="$PROJECT_DIR$/tests/ArraysAndStringsTests.java" />
-        <option value="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" />
         <option value="$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java" />
       </list>
     </option>
   </component>
@@ -108,7 +109,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
+    <option name="x" value="95" />
     <option name="y" value="23" />
     <option name="width" value="1484" />
     <option name="height" value="950" />
@@ -166,7 +167,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558655288831" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558678724406" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -228,23 +229,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysAndStringsTest.isStringPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeworkOne_Ivan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="com.ArraysAndStrings.ArraysAndStringsTest" />
-      <option name="METHOD_NAME" value="isStringPermutation" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ArraysAndStringsTest.isStringPermutationTrueCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeworkOne_Ivan" />
       <extension name="coverage">
@@ -262,6 +246,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArraysAndStringsTest.pairsThatEqualSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkOne_Ivan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.ArraysAndStrings.ArraysAndStringsTest" />
+      <option name="METHOD_NAME" value="pairsThatEqualSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysAndStringsTest.pairsThatEqualSumStandardCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkOne_Ivan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.ArraysAndStrings.ArraysAndStringsTest" />
+      <option name="METHOD_NAME" value="pairsThatEqualSumStandardCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysAndStringsTest.pairsThatEqualSumZeroPairsCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkOne_Ivan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.ArraysAndStrings.ArraysAndStringsTest" />
+      <option name="METHOD_NAME" value="pairsThatEqualSumZeroPairsCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -272,15 +307,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.ArrayAndStringsTests" />
-      <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutation" />
       <item itemvalue="JUnit.ArraysAndStringsTest" />
       <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutationTrueCase" />
+      <item itemvalue="JUnit.ArraysAndStringsTest.pairsThatEqualSum" />
+      <item itemvalue="JUnit.ArraysAndStringsTest.pairsThatEqualSumZeroPairsCase" />
+      <item itemvalue="JUnit.ArraysAndStringsTest.pairsThatEqualSumStandardCase" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ArraysAndStringsTest" />
+        <item itemvalue="JUnit.ArraysAndStringsTest.pairsThatEqualSumStandardCase" />
+        <item itemvalue="JUnit.ArraysAndStringsTest.pairsThatEqualSumZeroPairsCase" />
+        <item itemvalue="JUnit.ArraysAndStringsTest.pairsThatEqualSum" />
         <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutationTrueCase" />
-        <item itemvalue="JUnit.ArraysAndStringsTest.isStringPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -296,44 +335,44 @@
       <updated>1558329054089</updated>
       <workItem from="1558329055329" duration="1567000" />
       <workItem from="1558330668921" duration="548000" />
-      <workItem from="1558331240404" duration="6473000" />
+      <workItem from="1558331240404" duration="16986000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArraysAndStringsTest_isStringPermutationTrueCase - 2019.05.23 at 16h 40m 30s.xml">
-      <configuration name="ArraysAndStringsTest.isStringPermutationTrueCase" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysAndStringsTest_isStringPermutationTrueCase - 2019.05.23 at 16h 41m 38s.xml">
-      <configuration name="ArraysAndStringsTest.isStringPermutationTrueCase" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 43m 41s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 22h 52m 12s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 44m 04s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 22h 52m 46s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 44m 51s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 00m 39s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 45m 22s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 01m 46s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 46m 23s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 03m 56s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 46m 37s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 04m 13s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 46m 50s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 05m 46s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 16h 47m 19s.xml">
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 06m 47s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 07m 00s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 16m 41s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8588000" />
+    <option name="totallyTimeSpent" value="19101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,7 +384,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="23" width="1484" height="950" extended-state="0" />
+    <frame x="95" y="23" width="1484" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24202496" />
@@ -384,6 +423,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ArraysAndStringTests.java" />
     <entry file="file://$PROJECT_DIR$/.idea/libraries/pom.xml" />
@@ -417,17 +468,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
+    <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="54">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="10" selection-start-line="10" selection-end-line="28" />
+        <state relative-caret-position="293">
+          <caret line="68" column="120" selection-start-line="68" selection-start-column="120" selection-end-line="68" selection-end-column="120" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
