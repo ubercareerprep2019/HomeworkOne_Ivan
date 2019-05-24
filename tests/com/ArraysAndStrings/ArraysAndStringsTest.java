@@ -59,6 +59,29 @@ class ArraysAndStringsTest {
         assertEquals(2, pairs.size());
     }
 
+    @Test
+    void pairsThatEqualNegativeCase() {
+        int[] inputArray = {-1, -2};
+        int targetSum = -3;
+        ArrayList<Pair<Integer, Integer>> pairs = ArraysAndStrings.pairsThatEqualSum(inputArray, targetSum);
+        assertEquals(1, pairs.size());
+    }
+
+    @Test
+    void pairsThatEqualNegativeAndPositiveCase() {
+        int[] inputArray = {-1, 1};
+        int targetSum = 0;
+        ArrayList<Pair<Integer, Integer>> pairs = ArraysAndStrings.pairsThatEqualSum(inputArray, targetSum);
+        assertEquals(1, pairs.size());
+    }
+
+    @Test
+    void pairsThatEqualSumBackwardsStandardCase() {
+        int[] inputArray = {5, 4, 3, 2, 1};
+        int targetSum = 7;
+        ArrayList<Pair<Integer, Integer>> pairs = ArraysAndStrings.pairsThatEqualSum(inputArray, targetSum);
+        assertEquals(2, pairs.size());
+    }
 
     @Test
     void pairsThatEqualSumStandardSecondCase() {

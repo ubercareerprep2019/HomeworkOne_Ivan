@@ -56,6 +56,10 @@ public class ArraysAndStrings {
 
 
     public static ArrayList<Pair<Integer, Integer>> pairsThatEqualSum(int[] inputArray, int targetSum) {
+        if (inputArray == null) {
+            throw new IllegalArgumentException("Illegal Input Array");
+        }
+
         HashMap<Integer, Integer> values = new HashMap<>();
         ArrayList<Pair<Integer, Integer>> pairs = new ArrayList<>();
 

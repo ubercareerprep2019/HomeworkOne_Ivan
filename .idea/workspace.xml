@@ -38,12 +38,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5641" />
+          <entry key="java" value="5765" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5641" />
+          <entry key="JAVA" value="5765" />
         </counts>
       </usages-collector>
     </session>
@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="68" column="120" selection-start-line="68" selection-start-column="120" selection-end-line="68" selection-end-column="120" />
+            <state relative-caret-position="97">
+              <caret line="59" column="67" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="-336">
+              <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,7 +167,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558678724406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558679041488" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -335,23 +335,11 @@
       <updated>1558329054089</updated>
       <workItem from="1558329055329" duration="1567000" />
       <workItem from="1558330668921" duration="548000" />
-      <workItem from="1558331240404" duration="16986000" />
+      <workItem from="1558331240404" duration="17316000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 22h 52m 12s.xml">
-      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 22h 52m 46s.xml">
-      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 00m 39s.xml">
-      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 01m 46s.xml">
-      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 03m 56s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
@@ -370,9 +358,21 @@
     <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 16m 41s.xml">
       <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 18m 46s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 21m 13s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 22m 42s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysAndStringsTest - 2019.05.23 at 23h 23m 36s.xml">
+      <configuration name="ArraysAndStringsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19101000" />
+    <option name="totallyTimeSpent" value="19431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,18 +423,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ArraysAndStringTests.java" />
     <entry file="file://$PROJECT_DIR$/.idea/libraries/pom.xml" />
@@ -470,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/com/ArraysAndStrings/ArraysAndStringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="-336">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -480,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ArraysAndStrings/ArraysAndStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="68" column="120" selection-start-line="68" selection-start-column="120" selection-end-line="68" selection-end-column="120" />
+        <state relative-caret-position="97">
+          <caret line="59" column="67" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
